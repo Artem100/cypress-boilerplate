@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://github.com/",
+    "env": {
+        "myVar": "test"
+    }
+}
